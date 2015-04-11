@@ -176,8 +176,8 @@ tile.aspectAnalyzer.name=Analizzatore di Aspetti
 tile.platform.name=Piattaforma Eterea
 tile.spawner.name=Tablet della Necromanzia
 tile.bedrockPortal.name=Portale della PietraMadre
-tile.Levitational Locomotive.name=Locomotiva Levitativa
-tile.Levitational Locomotive Relay.name=Levitational Locomotive Relay
+tile.Levitational Locomotive.name=Locomotiva a Levitazione
+tile.Levitational Locomotive Relay.name=Stazione della Locomotiva a Levitazione
 tile.golemConnector.name=Connettore dei Golem
 tile.remotePlacer.name=Piazzatore Remoto
 
@@ -185,31 +185,31 @@ tile.remotePlacer.name=Piazzatore Remoto
 tile.warpGate.name=Cancello Celestiale
 
 # ENCHANTMENT NAMES
-enchantment.ttinkerer:ascentBoost=Ascent Boost
-enchantment.ttinkerer:slowFall=Slow Fall
-enchantment.ttinkerer:autoSmelt=Flaming Touch
-enchantment.ttinkerer:desintegrate=Disintegrate
-enchantment.ttinkerer:quickDraw=Quick Draw
-enchantment.ttinkerer:vampirism=Vampirism
+enchantment.ttinkerer:ascentBoost=Spinta a Salita
+enchantment.ttinkerer:slowFall=Caduta Lenta
+enchantment.ttinkerer:autoSmelt=Tocco Fiammante
+enchantment.ttinkerer:desintegrate=Disintegrazione
+enchantment.ttinkerer:quickDraw=Tesa Veloce
+enchantment.ttinkerer:vampirism=Vampirismo
 
-enchantment.ttinkerer:dispersedStrike=Dispersed Strike
-enchantment.ttinkerer:focusedStrike=Focused Strike
+enchantment.ttinkerer:dispersedStrike=Colpo Disperso
+enchantment.ttinkerer:focusedStrike=Colpo Docalizzato
 enchantment.ttinkerer:tunnel=Tunnel
-enchantment.ttinkerer:finalStrike=Final Strike
-enchantment.ttinkerer:pounce=Pounce
-enchantment.ttinkerer:shatter=Shatter
-enchantment.ttinkerer:shockwave=Shockwave
-enchantment.ttinkerer:valiance=Valiance
+enchantment.ttinkerer:finalStrike=Colpo Finale
+enchantment.ttinkerer:pounce=Avventato
+enchantment.ttinkerer:shatter=Frantumazione
+enchantment.ttinkerer:shockwave=Onda d'Urto
+enchantment.ttinkerer:valiance=Coraggio
 
 
 # WAND COMPONENTS
-item.Wand.ICHOR.cap=Ichorium Adorned
-item.Wand.ICHORCLOTH.rod=Ichorcloth Strapped Silverwood
+item.Wand.ICHOR.cap=Adornata d'Ichor
+item.Wand.ICHORCLOTH.rod=Argentalbero avvolto di Tessuto di Ichor
 
 # RESEARCH
 ttresearch.prefix=[TT] 
 ttresearch.prefix.kami=[TTKami] 
-tc.research_category.TT_ENCHANTING=Enchanting
+tc.research_category.TT_ENCHANTING=Incantare
 tc.research_category.TT_CATEGORY=Thaumic Tinkering
 
 # -- COMPUTERCRAFT PERIPHERALS
